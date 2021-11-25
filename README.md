@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h2 class="title is-4">Задание №1</h2>
       <p>Установил OpenServer</p>
    </div>
@@ -90,5 +90,3 @@
          
          echo "a = $a \n"; 
          echo "b = $b";
-    
->>>>>>> 4fa7e43378f732858bc7b89c7182d8f0f0af76b3
